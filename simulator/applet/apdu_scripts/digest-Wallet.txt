@@ -1,0 +1,12 @@
+Digest for com/oracle/jcclassic/samples/wallet/javacard/ConstantPool.cap		[SHA-256: d48014b0d72b30459edb456047f6c03c180297ce2b19b8892cc3178e4386bf9e]
+Digest for com/oracle/jcclassic/samples/wallet/javacard/Debug.cap		[SHA-256: 0018088a8e62e04540472774c1030e71648b070eda4899c94e91dfd62dce5e70]
+Digest for com/oracle/jcclassic/samples/wallet/javacard/Import.cap		[SHA-256: 8cc3642a6d49023dc39aece31584cf15757e6bbcbc1e299514366eae84efce86]
+Digest for com/oracle/jcclassic/samples/wallet/javacard/Class.cap		[SHA-256: 4612a7d077e570c087d5b4f4c695f01ccbb4a81f50de89031bf2eeb72f755fb9]
+Digest for com/oracle/jcclassic/samples/wallet/javacard/Descriptor.cap		[SHA-256: 1e3ee43fff40f1127fd614b7201312fd492affb6b317fa3a31664011973a967b]
+Digest for com/oracle/jcclassic/samples/wallet/javacard/RefLocation.cap		[SHA-256: a7df8939df0bc69fbf2911ce83e6b8878a446161ee2d65d1a2f276edb85e2aa7]
+Digest for com/oracle/jcclassic/samples/wallet/javacard/Header.cap		[SHA-256: da8379c543281ed251a5a3c9753eeace6c383c4dfa6af4a396fcb9c14486f4f5]
+Digest for com/oracle/jcclassic/samples/wallet/javacard/Directory.cap		[SHA-256: d75f3d4518a0e79621056a764893aa1172bc6a81b1fc66a53f517a2186759305]
+Digest for com/oracle/jcclassic/samples/wallet/javacard/Applet.cap		[SHA-256: a6a26856541d9d0505c8d049b4fb7c19baff0ffa231cd3f43712054a576c5911]
+Digest for com/oracle/jcclassic/samples/wallet/javacard/Method.cap		[SHA-256: c9760c6d1f389f718d902ac91fbd18b3edea75ae91f65add94433a9f72b64c14]
+Digest for com/oracle/jcclassic/samples/wallet/javacard/StaticField.cap		[SHA-256: 30468c9c18c4bf482fa70097aef8bc04b7f53b9222985ab6af295b461f1094e6]
+Verification completed with 0 warnings and 0 errors.
